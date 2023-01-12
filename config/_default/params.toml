@@ -30,10 +30,10 @@ codeLineNumbers = false
   name = "GitHub"
   iconLight = "images/GitHubMarkLight.svg"
   iconDark = "images/GitHubMarkDark.svg"
-  url = "https://github.com/pkwenda/notion-site"
+  url = "https://aroid.net"
 
 # optional
 # attribution. Feel free to delete this
 [author]
-  name = "Pkwenda"
-  url = "https://github.com/pkwenda"
+  name = "aroid.net"
+  url = "https://aroid.net"
