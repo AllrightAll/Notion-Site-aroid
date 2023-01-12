@@ -23,8 +23,8 @@ codeLineNumbers = false
 
 # Site logo
 [logo]
-  lightMode = "images/notion-site.png"
-  darkMode = "images/notion-site-dark.png"
+  lightMode = "images/logo.png"
+  darkMode = "images/logo-dark.png"
 
 [source]
   name = "GitHub"
