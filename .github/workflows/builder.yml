@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: "0 2 * * *"
   workflow_dispatch: ~
+
+  permissions:
+    contents: write
+    packages: write
+
 jobs:
   sync:
     name: Sync from notion
@@ -58,3 +63,11 @@ jobs:
           publish_dir: ./public
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 2
+          keep_minimum_runs: 6
