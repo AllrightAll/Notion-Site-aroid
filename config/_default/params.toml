@@ -26,11 +26,11 @@ codeLineNumbers = false
   lightMode = "images/logo.png"
   darkMode = "images/logo-dark.png"
 
-[source]
-  name = "GitHub"
-  iconLight = "images/GitHubMarkLight.svg"
-  iconDark = "images/GitHubMarkDark.svg"
-  url = "https://aroid.net"
+#[source]
+#  name = "GitHub"
+#  iconLight = "images/GitHubMarkLight.svg"
+#  iconDark = "images/GitHubMarkDark.svg"
+#  url = "https://aroid.net"
 
 # optional
 # attribution. Feel free to delete this

@@ -1,5 +1,5 @@
 ---
-title: Notion-Site
+title: aroid.net
 status: Published
 position: content
 categories: []
@@ -8,7 +8,7 @@ keywords: []
 createat: "2023-01-12T04:36:00+07:00"
 author: tao xia
 istranslated: true
-lastmod: "2023-01-12T07:50:00+07:00"
+lastmod: "2023-01-12T08:18:00+07:00"
 description: ""
 draft: null
 expirydate: null
