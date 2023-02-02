@@ -26,8 +26,8 @@ description = "天南星科植物协会小组中文站"
 # 自定义样式或脚本
 # customCSS = [styleURL1, styleURL2 ...]
 # customJS = [scriptURL1, scriptURL2 ... ]
-
-googleAnalytics = "G-4FWC681F7D"
+customJS = [https://raw.githubusercontent.com/artxia/CDN/scripts/aro_analytics.js]
+# googleAnalytics = "G-4FWC681F7D"
 
 # Site logo
 [logo]
