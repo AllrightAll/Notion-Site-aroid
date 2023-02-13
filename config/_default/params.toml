@@ -18,7 +18,7 @@ codeMaxLines = 7
 # disable showing line numbers by default. Switch to `true` if you'd rather have them on.
 codeLineNumbers = false
 
-description = "天南星科植物协会小组中文站"
+description = "中国天南星科植物协会小组中文站，热植花烛蔓绿绒龟背竹鹿角蕨协会小组官网"
 
 # By default the template will look for icons under the icons directory. In some situations you might wanna change that. edit the line below
 # iconsPath = 'icons/'
