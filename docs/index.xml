@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notion Site Doc on 天南星科中文站</title><link>https://aroid.net/docs/</link><description>Recent content in Notion Site Doc on 天南星科中文站</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 12 Jan 2023 04:36:00 +0700</lastBuildDate><atom:link href="https://aroid.net/docs/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Notion Site Doc on 天南星科中文站</title><link>https://aroid.net/docs/</link><description>Recent content in Notion Site Doc on 天南星科中文站</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 12 Jan 2023 04:36:00 +0700</lastBuildDate><atom:link href="https://aroid.net/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Site Example</title><link>https://aroid.net/docs/example/site-example/</link><pubDate>Thu, 12 Jan 2023 04:36:00 +0700</pubDate><guid>https://aroid.net/docs/example/site-example/</guid><description>&lt;p>这里维护已经使用 Notion-Site 上线的网站：&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>网站&lt;/th>
+&lt;th>网站类型&lt;/th>
+&lt;th>Github 仓库地址&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;a href="https://ns-doc.env.wtf/">Notion-Site 文档&lt;/a>&lt;/td>
+&lt;td>文档站&lt;/td>
+&lt;td>😀 &lt;strong>&lt;a href="https://github.com/pkwenda/notion-site-doc/">仓库&lt;/a>&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;a href="https://blog.env.wtf/">nonacosa’s blog&lt;/a>&lt;/td>
+&lt;td>博客站&lt;/td>
+&lt;td>😀 &lt;strong>&lt;a href="https://github.com/pkwenda/notion-site-blog">仓库&lt;/a>&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Shortcodes Example</title><link>https://aroid.net/docs/example/shortcodes-example/</link><pubDate>Thu, 12 Jan 2023 04:36:00 +0700</pubDate><guid>https://aroid.net/docs/example/shortcodes-example/</guid><description>&lt;p>该页面 Notion 原文链接：&lt;a href="https://www.notion.so/e24abe897ce74fd7ae1769c015cf9a3d">Shortcodes Example&lt;/a>&lt;/p></description></item></channel></rss>
